@@ -2,11 +2,11 @@
 
 # 🛠️ Admin Dashboard — Backend API
 
-### Laravel 11 · Sanctum · RESTful API
+### Laravel 13 · Sanctum · RESTful API
 
 A clean, modular, and secure REST API powering a professional admin dashboard system — built with scalability and developer experience in mind.
 
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Auth-Sanctum-3ECF8E?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,7 @@ A clean, modular, and secure REST API powering a professional admin dashboard sy
 
 | Layer          | Technology                  |
 | -------------- | --------------------------- |
-| Framework      | Laravel 11                  |
+| Framework      | Laravel 13                  |
 | Authentication | Laravel Sanctum (SPA/Token) |
 | Database       | MySQL                       |
 | API Style      | RESTful JSON API            |
